@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301" height="51.538" viewBox="0 0 301 51.538">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.047" y1="0.147" x2="0.921" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d5a531"/>
+      <stop offset="1" stop-color="#ffae00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.047" y1="0.147" x2="0.921" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d5a531"/>
+      <stop offset="1" stop-color="#ffae00" stop-opacity="0.627"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectángulo_33835" data-name="Rectángulo 33835" d="M5,0H290a0,0,0,0,1,0,0V39a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(201 168)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_36882" data-name="Grupo 36882" transform="translate(-195 -168)">
+    <path id="Trazado_36904" data-name="Trazado 36904" d="M202.875,207.74l11.076,13.884V200.086Z" transform="translate(-5.875 -2.086)" fill="#9d4102"/>
+    <rect id="Rectángulo_33833" data-name="Rectángulo 33833" width="301" height="39" rx="5" transform="translate(195 168)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
